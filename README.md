@@ -46,7 +46,7 @@ Yejun Liu</br>
 Research Group of Human Computer Speech Interaction, Department of Computer Science and Technology, Tsinghua University</br>
 UI Design, App Design, Software(HTML, Javascript, nw.js),  Graphics(WebGL)</br>
 
-Chengpeng Mao(http://mcpportfolio.aliapp.com/)</br>
+Chengpeng Mao(http://1.maoprofile.applinzi.com/index.html)</br>
 Academy of Art & Design, Tsinghua University</br>
 Software Architecture(Communication between hardware and software), Web-Server(node.js), Hardware(Arduino,Servo Controller,Refine)
 
